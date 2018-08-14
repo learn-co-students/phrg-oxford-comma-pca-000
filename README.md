@@ -61,4 +61,7 @@ But calling `.join` on the same array and giving it an argument of a `" :-) "` (
 * [Wikipedia](http://en.wikipedia.org) - [Serial Comma](http://en.wikipedia.org/wiki/Serial_comma)
 * [Dot Net Perls - Convert](http://www.dotnetperls.com/convert-ruby)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oxford-comma/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oxford-comma/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Oxford Comma List Formatter</p>
